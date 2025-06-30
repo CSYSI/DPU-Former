@@ -16,5 +16,5 @@ If you are interested in our work, please do not hesitate to contact us at Sunyg
 
 We provide the segmentation results of the proposed DPU-Former model under in Optical Remote Sensing Images.
 
-DPU-Former_IJCAI_25 [(https://pan.baidu.com/s/1o0_eXVHwg2MNqv60LjXQZw)),PIN:22mk] 
+DPU-Former_IJCAI25 [(https://pan.baidu.com/s/1o0_eXVHwg2MNqv60LjXQZw), PIN:22mk] 
 
