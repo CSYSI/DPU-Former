@@ -8,7 +8,7 @@ If you are interested in our work, please do not hesitate to contact us at Sunyg
 
 
 ![image](https://github.com/user-attachments/assets/a58a7485-7ba1-4515-8b43-0b187baf3753)
-![image](https://github.com/user-attachments/assets/206ed652-2487-41f0-a1e6-58059e62bed4)
+![image](https://github.com/user-attachments/assets/ba87bca4-2d0e-4e3a-bf25-40bd41d86c54)
 ![image](https://github.com/user-attachments/assets/57885a97-4160-4cc5-8451-b66a24ac6c4f)
 
 
