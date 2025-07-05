@@ -18,3 +18,26 @@ We provide the segmentation results of the proposed DPU-Former model under in Op
 
 DPU-Former_IJCAI25 [(https://pan.baidu.com/s/1o0_eXVHwg2MNqv60LjXQZw), PIN:22mk] 
 
+
+
+## Citation
+
+If you use DPU-Former method in your research or wish to refer to the baseline results published in the Model, please use the following BibTeX entry.
+
+```
+@article{DPU-Former,
+  title={Dual-Perspective United Transformer for Object Segmentation in Optical Remote Sensing Images},
+  author={Sun, Yanguang and Yan, Jiexi and Qian, Jianjun and Xu, Chunyan and Yang, Jian and Luo, Lei},
+  journal={arXiv preprint arXiv:2506.21866},
+  year={2025}
+}
+```
+
+```
+@article{DPU-Former,
+  title={Dual-Perspective United Transformer for Object Segmentation in Optical Remote Sensing Images},
+  author={Sun, Yanguang and Yan, Jiexi and Qian, Jianjun and Xu, Chunyan and Yang, Jian and Luo, Lei},
+  journal={International Joint Conference on Artificial Intelligence (IJCAI)},
+  year={2025}
+}
+```
