@@ -22,7 +22,7 @@ DPU-Former_IJCAI25 [(https://pan.baidu.com/s/1o0_eXVHwg2MNqv60LjXQZw), PIN:22mk]
 
 ## Citation
 
-If you use DPU-Former method in your research or wish to refer to the baseline results published in the Model, please use the following BibTeX entry.
+If you use DPU-Former in your research or wish to refer to the baseline results, please use the following BibTeX entry.
 
 ```
 @article{DPU-Former,
