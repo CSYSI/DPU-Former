@@ -22,7 +22,9 @@ DPU-Former_IJCAI25_ORSIs [(https://pan.baidu.com/s/1o0_eXVHwg2MNqv60LjXQZw), PIN
 We also gives the predicted results of our DPU-Former model under in Camouflaged Object Detection (COD), Salient Object Detection (SOD), and Polyp Segmentation (PS).
 
 
-
+DPU-Former_IJCAI25_COD [(https://pan.baidu.com/s/1EYqw-ydMt8C-u14MXmX20w), PIN:gje3] 
+DPU-Former_IJCAI25_SOD [(https://pan.baidu.com/s/1w34wWr2kBfke6KzLwGt--w), PIN:uncc]
+DPU-Former_IJCAI25_PS [(https://pan.baidu.com/s/1OnNghgdlnAEgmIunRCUHFA), PIN:487z]
 
 
 
