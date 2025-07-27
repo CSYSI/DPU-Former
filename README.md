@@ -19,7 +19,8 @@ We provide the segmentation results of the proposed DPU-Former model under in Op
 DPU-Former_IJCAI25 [(https://pan.baidu.com/s/1o0_eXVHwg2MNqv60LjXQZw), PIN:22mk] 
 
 
-#Extended Application
+# Extended Application
+
 <img width="699" height="277" alt="image" src="https://github.com/user-attachments/assets/a5d08e7b-428e-45ec-942b-2a5754127dd9" />
 <img width="699" height="330" alt="image" src="https://github.com/user-attachments/assets/425c8e3c-e8a4-43c7-9424-82505b72939a" />
 <img width="700" height="269" alt="image" src="https://github.com/user-attachments/assets/324a3992-a96f-4db0-8f4e-ab42540b0175" />
