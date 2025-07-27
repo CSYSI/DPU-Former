@@ -34,7 +34,7 @@ DPU-Former_IJCAI25_PS [(https://pan.baidu.com/s/1OnNghgdlnAEgmIunRCUHFA), PIN:48
 
 
 
-## Citation
+# Citation
 
 If you use DPU-Former in your research or wish to refer to the baseline results, please use the following BibTeX entry.
 
