@@ -31,7 +31,12 @@ DPU-Former_IJCAI25_SOD [(https://pan.baidu.com/s/1w34wWr2kBfke6KzLwGt--w), PIN:u
 DPU-Former_IJCAI25_PS [(https://pan.baidu.com/s/1OnNghgdlnAEgmIunRCUHFA), PIN:487z]
 
 
-
+# Weights
+If you want to train or test our DPU-Former method, you can use the following weights.
+DPU-Former_encoder [(https://pan.baidu.com/s/1LjGShJ9UNAKwaXXVlMmM7Q), PIN:kgma].
+DPU-Former_ORSSD [(https://pan.baidu.com/s/1K6CWdBi4gwqZcnAQTxhMeg), PIN:p1nq].
+DPU-Former_EORSSD [(https://pan.baidu.com/s/1cd_gwAJfjL2RqhSSjQoAtg), PIN:t2sy].
+DPU-Former_ORS-4199 [(https://pan.baidu.com/s/1EMcshaJHHgcCl9ElqrjvOg), PIN:8hs5].
 
 
 # Citation
