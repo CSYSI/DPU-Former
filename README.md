@@ -60,7 +60,8 @@ If you use DPU-Former in your research or wish to refer to the baseline results,
 @article{DPU-Former,
   title={Dual-Perspective United Transformer for Object Segmentation in Optical Remote Sensing Images},
   author={Sun, Yanguang and Yan, Jiexi and Qian, Jianjun and Xu, Chunyan and Yang, Jian and Luo, Lei},
-  journal={International Joint Conference on Artificial Intelligence (IJCAI)},
+  booktitle={Proceedings of the Thirty-Fourth International Joint Conference on Artificial Intelligence},
+  pages={1909--1917},
   year={2025}
 }
 ```
