@@ -57,11 +57,12 @@ If you use DPU-Former in your research or wish to refer to the baseline results,
 ```
 
 ```
-@article{DPU-Former,
-  title={Dual-Perspective United Transformer for Object Segmentation in Optical Remote Sensing Images},
+@inproceedings{DPU-Former,
+  title={Dual-perspective united transformer for object segmentation in optical remote sensing images},
   author={Sun, Yanguang and Yan, Jiexi and Qian, Jianjun and Xu, Chunyan and Yang, Jian and Luo, Lei},
   booktitle={Proceedings of the Thirty-Fourth International Joint Conference on Artificial Intelligence},
   pages={1909--1917},
   year={2025}
+}
 }
 ```
